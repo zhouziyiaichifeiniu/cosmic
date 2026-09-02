@@ -1,0 +1,1 @@
+var e=`/cosmic/`.replace(/\/$/,``);function t(t){return`${e}${t.startsWith(`/`)?t:`/${t}`}`}export{t};
